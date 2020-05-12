@@ -10,7 +10,7 @@ It is for these reasons that it would be beneficial for home buyers to be able t
 
 ## Data
 For the purpose of this project, data will be used from a variety of different sources as listed below:
-1. Foursquare Developer API - This will help fetch nearby facilities and their categories in their respective neighborhoods for clustering and further data analysis.
+1. Foursquare Developer API - This will help fetch nearby facilities and their categories in their respective neighborhoods for clustering and further data analysis. Examples of data that will be used include: VENUE NAME, VENUE ID, VENUE CATEGORY, and VENUE LOCATION 
 2. Realtor.com Orlando Florida - This webpage provides the median listing price and price per square foot in each neighborhood. This will also be used for clustering neighborhoods.
 3. Geolocator Python Library - This tool will be used to fetch the coordinates of each neighborhood to be able to plot it on a map.
 4. geojson file for Orlando - Will be used for creating a chloropleth map on median list prices.
