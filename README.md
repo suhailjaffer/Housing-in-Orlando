@@ -1,4 +1,4 @@
-# Real-Estate-in-Orlando
+# Housing-in-Orlando
 ## Introduction
 The housing market in Orlando Florida is a very competitive market (rated 77/100 by Redfin by calculating trends over the past 3 months). Redfin also notes the following characteristics for the housing market in Orlando:
 
